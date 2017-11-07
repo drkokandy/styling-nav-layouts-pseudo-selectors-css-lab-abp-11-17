@@ -70,5 +70,6 @@ footer{
 }
 
 #example-id a:hover {
-  font-style: strong;
+  font-style: italic;;
 }
+
