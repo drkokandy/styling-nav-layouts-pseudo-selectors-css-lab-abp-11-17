@@ -70,7 +70,7 @@ footer{
 }
 
 #header a:hover {
-  font-style: italic;
+  font-style: underline;
 }
 
 div.questions {
